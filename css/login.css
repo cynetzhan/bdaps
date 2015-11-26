@@ -1,0 +1,23 @@
+*{margin:0;font-family:'Ubuntu',Tahoma,Geneva,sans-serif;}
+body{background-color:#c4eebf;}
+a{color:#ff9955;text-decoration: none;}
+a:hover {text-decoration: underline;}
+#headerwrapper { background:#ffdabb;padding-top:10px;height:85px;width:100%;}
+.container{width:960px;margin:0 auto;}
+#logo{float:left;margin:10px 0 0 20px;}
+.login-ico{margin:1em;float:left;}
+#logo h1{color:white;}
+
+.iconmenu{float:left;}
+
+.banner{border-radius:1px;background-color:#5fd250;color:white;padding:5px;overflow:auto;}
+.ban-login{margin:0 auto;}
+
+.content{padding:5px;border: 2px #5fd250 solid;border-radius:3px;overflow: overlay;margin-bottom:5px;}
+.con-login{border-color:#5fd250;width:30em;margin:15vh auto;}
+.con-login a{color:white;}
+.loginform{background-color:white;height: inherit;border-radius:2px;padding: 10px;}
+.loginform td{padding:10px;}
+.form{margin:20px auto;/* border:1px solid black; */}
+
+#footer{background:#5fd250;height:50px;overflow:hidden;margin-top:25px;padding-top: 20px;clear:both;float:none;font-size:12px;color: white;text-align: center;}

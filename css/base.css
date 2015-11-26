@@ -1,0 +1,109 @@
+﻿*{
+    margin:0;
+    /*padding:0;*/
+    font-family:"Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#headerwrapper { background:#008080;padding-top:10px;height:85px;width:100%;}
+
+.container{
+    width:960px;
+    margin:0 auto;
+}
+
+#logo{
+    float:left;
+	margin:10px 0 0 20px;
+}
+
+#menuwrapper{
+    float:left;
+    color:#f0f0f0;
+    font-family:helvetica,arial,sans-serif;
+	margin:0 0 0 50px;
+}
+#menu li img{
+
+}
+#maincol .content span{
+	padding:20px;
+}
+#article{
+	padding:5px;
+}
+#menu li{float:left;margin:0 20px;list-style:none;align:center;}
+
+#menu li a{color:#ff9955;text-decoration:none;font-family:"Segoe UI", Tahoma, Geneva, Verdana, sans-serif;}
+
+#slideshow{margin:0 0 10px;width:700px;}
+#maincontent{width:960px;margin:20px auto;}
+	
+#maincol{width:700px;/*border:2px darkcyan solid;*/float:left;margin-right:10px;padding:inherit; margin-bottom:25px;}
+
+#rightcol{width:240px;float:left;}
+
+.iconmenu{float:left;}
+
+.banner{border-radius:1px;background-color:#008080;color:white;padding:5px;}
+.bannersub{ border-bottom:1px #009999 dashed; margin:5px 10px;}
+.content{padding:5px;border:2px darkcyan solid;border-radius:3px;overflow:auto;margin-bottom:5px;}
+
+#rightcol .banner, #rightcol .content {	border-radius:0px;}
+#rightcol .content {font-size:0.8em;}
+
+.image img {width:136px; height:83px;}
+.tab-content { display:inline-block; margin-left:5px;padding:0;}
+.items { padding-bottom:5px; font-size:0.8em }
+.items ul{ list-style-type: none; padding:0;}
+.items ul .image{ text-align: center;}
+.items ul .imagedl{ text-align: center;}
+.items ul li{ float:left; border:dashed 1px #cfcfcf; width:200px; margin:5px 5px; padding:5px; }
+.items ul li p{	margin-left:2px;}
+.items ul li p span{ color:#890000;}
+.items ul li p.price{ padding-top:15px; }
+.items ul li p.price strong{ color:#890000; font-size:14px;}
+.items ul li a{color:#ff9955; text-decoration:none;}
+
+#footer{
+	background:#008080;
+    height:50px;
+    overflow:hidden;
+    margin-top:25px;
+    padding-bottom:25px;
+    clear:both;
+    float:none;
+    font-size:12px;
+}
+.batas-statistik{
+	height:20%;
+}
+
+#datatingkat{
+	float:left;
+}
+
+.keterangan-statistik{
+	background-color:#d4d4d4;
+	float:right;
+	width:300px;
+	height:250px;
+	border-radius:3px;
+	padding:10px;
+	margin-right:30px;
+}
+
+.isi-stat h2{
+	margin: 0 0 15px 30px;
+}
+
+.kanandikit{
+	margin: 0 0 15px 30px;
+}
+
+btn-marg{
+	margin:15px;
+}
+
+.blmsk{color:gray}
+.sd{color:green}
+.smp{color:yellow}
+.sma{color:red}

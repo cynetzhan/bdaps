@@ -1,0 +1,5 @@
+@media (min-width:768px) {.logohuruf{max-width:15%;height:auto;}}
+@media (max-width:250px) {.logohuruf{max-width:100%;}}
+.title-hl{background-color:#bf0000;padding:2px;color:white;border-radius:3px;max-width:15%;text-align:center;}
+.login-panel{margin-top:25%;}
+
