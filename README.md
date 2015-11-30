@@ -1,6 +1,5 @@
-# BDAPS
-## Bantu Data Anak Putus Sekolah
-## [Demo Link](http://mas-izhan.xyz/BDAPS/)
+# BDAPS - Bantu Data Anak Putus Sekolah
+[Demo Link](http://mas-izhan.xyz/BDAPS/)
 
 ## Tujuan
 Membantu menyediakan data anak putus sekolah dengan melibatkan relawan-relawan yang ada di setiap daerah di Indonesia agar anak-anak itu kembali mendapatkan hak pendidikan yang layak.
